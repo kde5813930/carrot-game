@@ -1,4 +1,4 @@
-# carrot-game
+# 🥕carrot-game
 vanillaJS를 활용하여 간단한 게임 구현
 
 
