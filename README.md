@@ -1,5 +1,5 @@
 # 🥕carrot-game
-vanillaJS를 활용하여 간단한 게임 구현
+javascript를 활용하여 간단한 게임 구현
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/76463057/119775724-f6695180-befe-11eb-985f-2b567690647b.gif)
 
